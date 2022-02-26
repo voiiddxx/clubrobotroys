@@ -1,0 +1,62 @@
+
+<!-------events------->
+
+<section class="eventsss">
+        <div data-aos="fade-up" class="event-heading">
+            <h1> EVENTS</h1>
+        </div>
+        <div data-aos="fade-up" class="event-us">
+            <div data-aos="fade-up" class="event-text">
+                <h2>
+                    Techno World
+                </h2>
+                <p>
+                    Techno world (various technichal events) organised "tech fest" under the banner of internatinol fest Vibgyor 2019. the moto of the event techno world to introduced the soceity to the new world which is highly advanced and technichal.t
+                </p>
+            </div>
+            <div data-aos="fade-up" class="event-image">
+                <img data-aos="fade-up" src="./images/techno.jpg" alt="">
+            </div>
+        </div>
+
+    </section>
+
+
+
+<!-------winn--------->
+<section class="winnn">
+    <div data-aos="fade-up" class="winheading">
+        <h1>
+            Achivement
+        </h1>
+    </div>
+    <div data-aos="fade-up" class="win">
+        <h2 data-aos="fade-up">"ADVITIYA" IIT Ropar ,3rd Prize In Robosroccer</h2>
+        <h2 data-aos="fade-up">"JIGYASA" at GLOBAL INSTITUTE OF TECHNOLEGY Jaipur , 1ST PRIZE IN ROBO SOCCER & 2ND IN ROBOSUMO </h2>
+        <h2 data-aos="fade-up">"INFOEXPRESSION" GURU GOBIND SINGH INDRAPRASTHAN UNIVERSITY .2ND PRIZE IN SOCCER & SUMO WAR.</h2>
+    </div>
+    </section>
+    <!-------winn end--------->
+    
+
+
+
+
+    <!-----------login form--------->
+    <form method="post" autocomplete="off" name="google-sheet">
+        <div data-aos="fade-up" class="contact-container">
+            <div data-aos="fade-up" class="contact-box">
+                <div data-aos="fade-up" class="left"></div>
+                <div data-aos="fade-up" class="right">
+                    <h2 data-aos="fade-up" class="contact-h2">Contact Us</h2>
+                    <input data-aos="fade-up" type="text" name="name" class="field" placeholder="Your Name">
+                    <input data-aos="fade-up" type="text" name="branch" class="field" placeholder="Branch">
+                    <input data-aos="fade-up" type="text" name="email" class="field" placeholder="Your Email">
+                    <input data-aos="fade-up" type="text" name="phone" class="field" placeholder="Phone">
+                    <input data-aos="fade-up" type="text" name="uid" class="field" placeholder="UID">
+                    <textarea data-aos="fade-up" placeholder="Message" name="message" class="field"></textarea>
+                    <button class="btnc">Send</button>
+                </div>
+            </div>
+        </div>
+    </form>
